@@ -52,4 +52,7 @@
 @include motion-ui-transitions;
 @include motion-ui-animations;
 
+@import 'components/responsive.scss';
+
 @import 'components/global.scss';
+@import 'components/contact.scss';
