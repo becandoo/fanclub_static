@@ -52,8 +52,4 @@
 @include motion-ui-transitions;
 @include motion-ui-animations;
 
-svg {
-    width: 50% !important;
-    display: block;
-    margin: 0 auto;
-}
+@import 'components/global.scss';
